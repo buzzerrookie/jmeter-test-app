@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: jmeter-test-app
+server:
+  port: 9091
